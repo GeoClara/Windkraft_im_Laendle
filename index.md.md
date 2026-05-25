@@ -1,0 +1,15 @@
+# Ziel und Forschungsfrage
+### Das Wind-an-Land-Gesetz
+Mit dem [[Wind-an-Land-Gesetz](https://www.kea-bw.de/erneuerbare-bw/20-21klimag-bw-2025-flaechenziele-windkraftausbau)] hat die Bundesregierung verbindliche Flächenziele für den Ausbau von Windkraft und Photovoltaik festgesetzt. Demnach sollen bis Ende 2032 ca. 2% der Bundesfläche als Vorranggebiet für Windenergie ausgewiesen sein, und somit ohne größere planungsrechtliche Risiken für den Bau von Windenergieanlagen zur Verfügung stehen (Wind-BG).
+Auch Baden-Württemberg hat sich im Zuge dieses Gesetzes dazu verpflichtet, bis 2032 ca. 1,8 % der Landesfläche als derartiges Vorranggebiet auszuweisen, und so die Energiewende zu beschleunigen (§20 und 21 KlimaG BW). 
+
+### Schleppender Ausbau der Windenergie in Baden-Württemberg
+Das Land Baden-Württemberg weist einen hohen Anteil an der Gesamtfläche der Bundesrepublik auf. Dass der Ausbau der Winderegie dort dennoch schleppend vorangeht, hat vielfältige Gründe: Oft scheitern Projekte an langen und umfassenden Umweltverträglichkeitsprüfungen, auch stellen die geringen Windgeschwindigkeiten eine Herausforderung dar. 
+Zum gegenwärtigen Zeitpunkt sind ca. 800 Windenergieanlagen in Baden-Württemberg installiert; Im Jahr 2025 kamen 24 neue WEA dazu. Um die Ausbauziele zu erreichen, wäre jedoch mehr als die vierfache Menge pro Jahr vonnöten: Bis 2040 wären rund 3000 Windräder erforderlich. [[Mehr dazu](https://erneuerbare-bw.de/de/news/news-einzelansicht/baden-wuerttemberg-der-windenergieausbau-geht-zu-langsam-voran)]
+
+### Windenergie in Bürgerhand
+Eindeutig festzustellen ist, dass die Energiewende keine rein technologische Wende ist: Gleichermaßen ist auch der gesellschaftliche Aspekt zu betonen. Mit der Transition hin zu einer dezentralen Energieerzeugung haben zivilgesellschaftliche Akteur:innen wie Energiegenossenschaften nun die Möglichkeit, die Energiewende aktiv mitzugestalten, und durch Büger:innebeteiligung direkt finanziell zu profitieren. Aktuell gelten knapp die Hälfte der installierten Leistung erneuerbarer Energie als Bürgerenergie.[[Mehr dazu](https://www.unendlich-viel-energie.de/media/file/284.AEE_RenewsKompakt_Buergerenergie.pdf)]
+
+## Forschungsfrage
+Um einschätzen zu können, wie realistisch das 1,8%-Ziel ist, kann eine Identifikation potenziell geeigneter Flächen mittels GIS hilfreich sein. Weiterhin soll der Anteil relevanter Risiko- und Gunstfaktoren an dieser Potenzialfläche berechnet werden. Zusätzlich sollen für die Analyse lediglich frei verfügbare Geodaten und Software verwendet werden, um zu beurteilen, wie gut eine Bewertung von Standorten mit diesen Mitteln funktioniert. Dies kann Auskunft darüber geben, ob bzw. wie gut zivilgesellschaftliche Akteur:innen ohne Zugriff auf kommerzielle Daten und Software Standortbeurteilungen durchführen können. 
+*Es sollen also das Potenzial sowie Grenzen einer automatisierten GIS-gestützten Standortanalyse für Windenergieanlagen in Baden‑Württemberg unter Nutzung freier Geodaten ermittelt werden.*
